@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diego Freitas
 - 👀 I’m interested in Java and Angular
-- 🌱 I’m currently learning API REST whit Spring Boot
+- 🌱 I'm currently learning REST API and Spring Boot
 - 📫 How to reach me www.linkedin.com/in/diegofreittas
 
 <!---
