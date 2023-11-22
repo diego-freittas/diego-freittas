@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Diego Freitas
 - 👀 I’m interested in Java and REACT
-- 🌱 I'm currently learning REST API and Spring Boot
 - 📫 How to reach me www.linkedin.com/in/diegofreittas
 
 <!---
